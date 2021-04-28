@@ -9,3 +9,7 @@
 - 3d Design parts for unique use cases.
 - Play and modify video games
 - Fabricate multimedia recreations of popular film accessories and costumes for demonstration.
+
+
+
+### Sadly most of my contributed repositories are grant funded and confidential, sadly I can't demo my work
