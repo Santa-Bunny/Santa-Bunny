@@ -12,4 +12,4 @@
 
 
 
-### Sadly most of my contributed repositories are grant funded and confidential, sadly I can't demo my work
+### Sadly most of my contributed repositories are grant funded and confidential, I usually can't demo my work
