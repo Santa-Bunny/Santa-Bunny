@@ -1,4 +1,4 @@
-## Hi, I'm Andrew, I'm a:
+## Hi, I'm Santa, I'm a:
 - Computer engineering student at University of Michigan with a focus on embedded systems, and physical + software securities. 
 - Assistant Researcher in a Nuclear Engineering Lab focusing on secure ptp file transfer and remote device security.
 - Hands on troubleshooting researcher for a team designing an inexpensive layman-understandable Geiger-Müller device from scratch with a team of researchers.
