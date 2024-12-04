@@ -1,6 +1,6 @@
 ## Hi, I'm Santa, I'm a:
-- Computer engineering student at the University of Michigan focusing on embedded systems and offensive security. 
-- Assistant Researcher in a Nuclear Engineering Lab focusing on secure ptp file transfer and remote device security.
+- Computer engineer focusing on embedded systems and offensive security. 
+- Former Researcher in a Nuclear Engineering Lab focusing on secure ptp file transfer and remote device security.
 - Hands-on troubleshooting researcher for a team designing an inexpensive layman-understandable Geiger-Müller device from scratch with a team of researchers.
 - Assistant Designer to a Navigational Algorithm team focusing on finding lost Electro-magnetic Field Sources.
 
